@@ -43,7 +43,8 @@ step 25 ==>  Genere scelto soddisfa tutti ? si : no(torna step 24)
 step 26 ==>  Film o Serie tv
 
 
-Film
+
+<!-- Film -->
 step 27 ==> Entro e scorro nella lista del genere scelto
 step 28==> Individuo solo quelli consigliati
 step 29 ==> Seleziono film
@@ -52,7 +53,7 @@ step 31 ==> Selezione primo episodio stagione 1
 step 32 ==> Riproduci
 step 33 ==>  A fine Film inserisci nella lista già visti
 
-Serie tv
+<!-- Serie tv -->
 step 34 ==> Entro e scorro nella lista del genere scelto
 step 35 ==> Seleziono Serie Tv
 step 36 ==> piace a tutti ? si : torno al step 35
